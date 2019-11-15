@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UniGUIA</string>
+    <string name="btnTxt">CLIQUE AQUI PARA ESCANEAR O CODIGO </string>
+    <string name="txtCreditos">Desenvolvido por: Cesário Pereira Neto, 2019</string>
+</resources>
