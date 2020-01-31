@@ -4,4 +4,5 @@ Projeto para o TCC1 do curso de Bacharelado em Sistemas de Informação.
 <p>Screanshots do projeto:</p>
 <br/>
 <img src="screanshots/telainicial.jpg">
+<br>
 <img src="screanshots/leituraqr.jpg">
