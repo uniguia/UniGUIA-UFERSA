@@ -10,7 +10,7 @@
 
     <ImageView
         android:id="@+id/uniguialogo"
-        android:layout_width="413dp"
+        android:layout_width="match_parent"
         android:layout_height="177dp"
         android:layout_marginBottom="3dp"
         android:src="@drawable/unigui"
@@ -22,8 +22,8 @@
 
     <Button
         android:id="@+id/btn"
-        android:layout_width="411dp"
-        android:layout_height="468dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_marginTop="180dp"
         android:layout_marginBottom="38dp"
         android:background="@null"
